@@ -1,18 +1,19 @@
-<p align="center">
- <p/>
-<h1 align="center"> Hi! I'm Mohamed Khaled <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
+<h1 align="center">Hi 👋, I'm Mohamed Khaled</h1>
+<h3 align="center">A passionate Android developer</h3>
 
-I'm Mohamed Khaled, a passionate Android Developer 💻.
+- 🔭 I’m currently working on [Noted application](https://github.com/mk-hefnawy/Noted)
 
+- 💬 Ask me about **Java, Kotlin, and Android**
 
-- 🤔 I’m looking for a job ooportunty as an Android Developer.
-- :seedling: I’m currently learning about Reactive Streams in depth.
-- :computer: Most used line of code `git commit -m "Initial Commit"`.
-- :speech_balloon: Ask me about anything.
+- 📫 How to reach me **mk.hefnawy@gmail.com**
 
-🤝 &nbsp; Connect with Me
+- ⚡ Fun fact **I think coding is not hard :)**
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mohamed-khaled-3b68871aa)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mohamed khaled" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed khaled" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mk_hefnawy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mk_hefnawy" height="30" width="40" /></a>
+</p>
 
-<hr>
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
